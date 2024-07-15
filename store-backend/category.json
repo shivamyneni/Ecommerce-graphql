@@ -1,0 +1,41 @@
+[
+    {
+      
+      "name": "Smartphones",
+      "description": "Latest and greatest smartphones from top brands.",
+      "products": [
+       
+      ]
+    },
+    {
+     
+      "name": "Headphones",
+      "description": "High-quality headphones with noise-cancelling features and superior sound quality.",
+      "products": [
+       
+      ]
+    },
+    {
+   
+      "name": "Laptops",
+      "description": "Powerful and portable laptops for work and play.",
+      "products": [
+      
+      ]
+    },
+    {
+     
+      "name": "Footwear",
+      "description": "Comfortable and stylish footwear for all occasions.",
+      "products": [
+       
+      ]
+    },
+    {
+      "name": "Kitchen Appliances",
+      "description": "Essential kitchen appliances for everyday cooking and baking.",
+      "products": [
+       
+      ]
+    }
+  ]

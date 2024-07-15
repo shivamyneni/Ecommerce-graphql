@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "66913613f0ba2f01ed61bd26"
+  },
+  "name": "Smartphones",
+  "description": "Latest and greatest smartphones from top brands.",
+  "products": [
+    "66913733f0ba2f01ed61bd2e",
+    "66913733f0ba2f01ed61bd2f"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66913613f0ba2f01ed61bd27"
+  },
+  "name": "Headphones",
+  "description": "High-quality headphones with noise-cancelling features and superior sound quality.",
+  "products": [
+    "66913733f0ba2f01ed61bd30"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66913613f0ba2f01ed61bd28"
+  },
+  "name": "Laptops",
+  "description": "Powerful and portable laptops for work and play.",
+  "products": [
+    "66913733f0ba2f01ed61bd31"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66913613f0ba2f01ed61bd29"
+  },
+  "name": "Footwear",
+  "description": "Comfortable and stylish footwear for all occasions.",
+  "products": [
+    "66913733f0ba2f01ed61bd32"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66913613f0ba2f01ed61bd2a"
+  },
+  "name": "Kitchen Appliances",
+  "description": "Essential kitchen appliances for everyday cooking and baking.",
+  "products": [
+    "60d0fe4f5311236168a109cf"
+  ]
+}]

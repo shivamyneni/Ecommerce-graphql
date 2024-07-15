@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "IntegralCF"; /*Can be any text*/
+	src: local("IntegralCFMedium"),
+		url("@fonts/integralcf-medium.otf") format("otf");
+}
+/* 
+ "@fonts/integralcf-bold.otf"
+ "@fonts/integralcf-medium.otf"
+ "@fonts/integralcf-regular.otf"
+ "@fonts/integralcf-demibold.otf"
+ "@fonts/integralcf-extrabold.otf"
+ "@fonts/integralcf-heavy.otf" */
+
+@font-face {
+	font-family: "IntegralCF";
+	src: url("@fonts/integralcf-regular.otf");
+}
+
+@font-face {
+	font-family: "IntegralCF";
+	src: url("@fonts/integralcf-bold.otf");
+}
+
+@font-face {
+	font-family: "IntegralCF";
+	src: url("@fonts/integralcf-demibold.otf");
+}
+
+@font-face {
+	font-family: "IntegralCF";
+	src: url("@fonts/integralcf-extrabold.otf");
+}
+
+@font-face {
+	font-family: "IntegralCF";
+	src: url("@fonts/integralcf-heavy.otf");
+}
