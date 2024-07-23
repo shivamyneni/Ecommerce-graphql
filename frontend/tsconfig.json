@@ -15,10 +15,18 @@
 		"isolatedModules": true,
 		"noEmit": true,
 		"jsx": "react-jsx",
-		
+
 		"baseUrl": "src",
-		"paths": {"@components/*":["components/*"],"@pages/*":["pages/*"],"@utils/*":["utils/*"],"@fonts/*":["fonts/*"],"@containers/*":["containers/*"],"@images/*":["assets/images/*"],}
+		"paths": {
+			"@components/*": ["components/*"],
+			"@pages/*": ["pages/*"],
+			"@utils/*": ["utils/*"],
+			"@fonts/*": ["fonts/*"],
+			"@containers/*": ["containers/*"],
+			"@images/*": ["assets/images/*"],
+			"@pages/auth/*": ["pages/auth/*"],
+			"@routes/*": ["routes/*"]
 		}
-	,
+	},
 	"include": ["src"]
 }

@@ -4,16 +4,8 @@
 
 @font-face {
 	font-family: "IntegralCF"; /*Can be any text*/
-	src: local("IntegralCFMedium"),
-		url("@fonts/integralcf-medium.otf") format("otf");
+	src:url("@fonts/integralcf-medium.otf") format("otf");
 }
-/* 
- "@fonts/integralcf-bold.otf"
- "@fonts/integralcf-medium.otf"
- "@fonts/integralcf-regular.otf"
- "@fonts/integralcf-demibold.otf"
- "@fonts/integralcf-extrabold.otf"
- "@fonts/integralcf-heavy.otf" */
 
 @font-face {
 	font-family: "IntegralCF";

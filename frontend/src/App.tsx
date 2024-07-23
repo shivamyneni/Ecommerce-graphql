@@ -7,10 +7,9 @@ import "@fonts/integralcf-regular.otf"
 import "@fonts/integralcf-demibold.otf"
 import "@fonts/integralcf-extrabold.otf"
 import "@fonts/integralcf-heavy.otf"
-
-
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "@pages/Home/Home";
+import Home from "@pages/home/Home";
+import AuthRoutes from "@routes/AuthRoutes";
 
 function App() {
 	return (
@@ -18,6 +17,7 @@ function App() {
 			<Router>
 				<Routes>
 					<Route path="/" element={<Home />} />
+					<Route path="/auth/*" element={<AuthRoutes/>} />	
 				</Routes>
 			</Router>
 		</div>

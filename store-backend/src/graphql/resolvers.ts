@@ -312,7 +312,7 @@ const resolvers = {
 						_id: new ObjectId(),
 						...args,
 					});
-					return user;
+					return newUser;
 				}
 			} catch (err) {
 				console.error("Error creating user:", err);
